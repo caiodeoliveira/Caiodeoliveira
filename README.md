@@ -12,7 +12,7 @@ Eu amo programar e resolver problemas usando a tecnologia.
  <br/> :computer: &nbsp; Minha stack: HTML, CSS & Javascript
  <br/> 💬  &nbsp; Sobre mim: sou autodidata, paciente e resiliente; 
 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro-08100919b/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro-08100919b/) 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=CaioDeOliveira&show_icons=true&theme=midnight-purple"/>
