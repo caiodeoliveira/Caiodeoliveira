@@ -9,10 +9,8 @@ Eu amo programar e resolver problemas usando a tecnologia.
  
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em Javascript
  <br/> :star: &nbsp; Estudando Angular framework, tenho habilidades com CSS Grid Layout.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Javascript & Typescript
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS & Javascript
  <br/> 💬  &nbsp; Sobre mim: sou autodidata, paciente e resiliente; 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro-08100919b/) 
 
