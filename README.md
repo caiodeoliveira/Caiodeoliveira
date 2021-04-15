@@ -1,14 +1,14 @@
 <h1 align="center"> :man_technologist: Caio Ribeiro  🚀</h1>
  
 ## Olá 👋
-Eu amo programar, criar usando a tecnologia.
+Eu amo programar criar usando a tecnologia.
 
 <br/> Sou um Desenvolvedor Front-End :computer:
 
  :rocket:  &nbsp; **Estudante de programação há 1 ano**
  
- <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em Javascript
- <br/> :star: &nbsp; Estudando Angular framework, tenho habilidades com CSS Grid Layout.
+ <br/> :purple_heart: &nbsp; Busco evoluir constantemente!
+ <br/> :star: &nbsp; Estudando Angular framework e tenho habilidades com CSS Grid Layout.
  <br/> :computer: &nbsp; Minha stack: HTML, CSS & Javascript
  <br/> 💬  &nbsp; Sobre mim: paciente e resiliente; 
 
