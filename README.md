@@ -8,7 +8,7 @@ Eu amo programar criar usando a tecnologia.
  :rocket:  &nbsp; **Estudante de programação há 1 ano**
  
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente!
- <br/> :star: &nbsp; Estudando Angular framework.
+ <br/> :star: &nbsp; Estudando Back end(javascript).
  <br/> :computer: &nbsp; Oque eu domino: HTML, CSS, Javascript e Git.
  <br/> 💬  &nbsp; Sobre mim: paciente e resiliente; 
 
