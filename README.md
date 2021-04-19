@@ -5,7 +5,7 @@ Eu amo programar criar usando a tecnologia.
 
 <br/> Sou um Desenvolvedor Front-End :computer:
 
- :rocket:  &nbsp; **Estudante de programação há 1 ano**
+ :rocket:  &nbsp; **Estudando, trabalhando em alguns projetos e buscando a primeira oportunidade como Dev JR.**
  
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente!
  <br/> :star: &nbsp; Estudando Back end(javascript).
