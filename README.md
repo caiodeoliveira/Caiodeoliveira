@@ -14,11 +14,6 @@ Eu amo programar criar usando a tecnologia.
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro-08100919b/) 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioDeOliveira&show_icons=true&theme=midnight-purple"/>
-  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeOliveira&layout=compact&hide=shell&theme=midnight-purple"/>
-</div>
-
 
 
 
