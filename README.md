@@ -1,7 +1,7 @@
 <h1 align="center"> :man_technologist: Caio Ribeiro  🚀</h1>
  
 ## Olá 👋
-Eu amo programar criar usando a tecnologia.
+Eu amo programar, criar usando a tecnologia.
 
 <br/> Sou um Desenvolvedor Front-End :computer:
 
