@@ -9,7 +9,8 @@ Eu amo programar, criar usando a tecnologia.
  
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente!
  <br/> :star: &nbsp; Estudando Back end(javascript).
- <br/> :computer: &nbsp; Oque eu uso: HTML, CSS, Javascript e Git.
+ <br/> 🖥️computer: &nbsp; Oque eu uso: HTML, CSS, Javascript e Git.
+ <br/> 💻 Oque já usei: NodeJs, ExpressFramework e Nunjucks.
  <br/> 💬  &nbsp; Sobre mim: paciente e resiliente; 
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro-08100919b/) 
