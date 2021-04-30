@@ -8,7 +8,7 @@ Eu amo programar, criar usando a tecnologia.
  :rocket:  &nbsp; **Estudando, trabalhando em alguns projetos e buscando a primeira oportunidade como Dev JR.**
  
  <br/>     :purple_heart: &nbsp; Busco evoluir constantemente!
- <br/>     :star: &nbsp; Estudando Angular Framework & Back end(javascript).
+ <br/>     :star: &nbsp; Estudando Angular Framework
  <br/> 🖥️  &nbsp; Oque eu uso: HTML, CSS, Javascript e Git.
  <br/> 💻 Oque já usei: NodeJs, ExpressFramework e Nunjucks.
  <br/> 💬  &nbsp; Sobre mim: paciente e resiliente; 
