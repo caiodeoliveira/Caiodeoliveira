@@ -11,7 +11,7 @@ Música, trabalho em equipe e comunicação fazem parte da minha rotina assim co
  <br/> 💬  &nbsp; Sobre mim: paciente e resiliente; 
 
 
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35.8px" height="35.8px">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35.8px" height="35.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="35.8px" height="35.8px">
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro98/) 
 
 <div>
