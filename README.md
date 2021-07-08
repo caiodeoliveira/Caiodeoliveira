@@ -16,8 +16,7 @@ Música, trabalho em equipe e comunicação fazem parte da minha rotina assim co
 <br/>
   
  ## 💻 Oque uso no Back-End:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="55.8px" height="55.8px">
- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="55.8px" height="55.8px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45.8px" height="45.8px">
  <br/>
  <br/>
  
