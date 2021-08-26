@@ -6,9 +6,7 @@ Música, trabalho em equipe e comunicação fazem parte da minha rotina assim co
 ## Sou um Desenvolvedor WEB Front-End :computer:
  
 
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35.8px" height="35.8px">
- 
- 
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45.8px" height="45.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35.8px" height="35.8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45.8px" height="45.8px">
  
 
 <br/>     :purple_heart: &nbsp; Busco evoluir constantemente!
