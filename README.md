@@ -17,6 +17,7 @@ Music, Team Work and communication are part of my routine, as its chocolate and 
  ##  Also knowledge with 💻 :
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="4%">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="10%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="10%" />
           
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-CaioDeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ribeiro-08100919b/)](https://www.linkedin.com/in/caio-ribeiro98/) 
 <div>
